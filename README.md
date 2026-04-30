@@ -1,7 +1,7 @@
 #  Hi, I'm T Namratha Padiyar
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=7F3FBF&size=25&center=true&vCenter=true&width=600&lines=Building+Data+Driven +Insights;Python+%7C+SQL+%7C+Power+BI;Turning+Data+into+Insights" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=7F3FBF&size=25&center=true&vCenter=true&width=750&lines=Data+Analyst+%7C+Driving+Business+Insights;Excel+%7C+Python+%7C+SQL+%7C+Power+BI;From+Raw+Data+to+Real+Business+Decisions" />
 </p>
 
 ---
