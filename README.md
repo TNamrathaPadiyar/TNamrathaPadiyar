@@ -1,125 +1,148 @@
 # Hi, I'm T Namratha Padiyar
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=7F3FBF&size=25&center=true&vCenter=true&width=750&lines=People+%26+HR+%7C+HR+Operations+%7C+HR+Analytics;People+%7C+Processes+%7C+Data+%7C+Technology;Building+Better+People+Experiences+Through+Structured+Thinking" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=7F3FBF&size=25&center=true&vCenter=true&width=750&lines=%7CAnalytics+%7C+Operations+%7C+Business+Processes;Data+%7C+Processes+%7C+People+%7C+Problem+Solving;Turning+Business+Problems+into+Practical+Solutions" />
 </p>
 
 ---
 
-## 👩‍💼 About Me
+## 👋 About Me
 
-* 🤝 <b><span style="color:#7F3FBF">People-oriented problem solver</span></b> with experience in client communication, cross-functional coordination, student leadership, and research
-* 🧩 Interested in <b><span style="color:#7F3FBF">People & Culture, HR Operations, Employee Experience, Talent Acquisition, and People Analytics</span></b>
-* 📋 Experienced in <b><span style="color:#7F3FBF">understanding requirements, coordinating across teams, communicating information, and following through on outcomes</span></b> through my business operations internship
-* 📊 Bring an <b><span style="color:#7F3FBF">analytical mindset</span></b> with experience in Excel, SQL, Power BI, Python, and data-driven problem solving
-* 🎤 Developed <b><span style="color:#7F3FBF">leadership, communication, stakeholder coordination, and presentation skills</span></b> through student initiatives, event leadership, research, and team activities
-* 🌱 Currently building practical knowledge in <b><span style="color:#7F3FBF">HR operations, employee lifecycle, HR technology, people analytics, and AI-enabled HR</span></b>
+I’m an MCA graduate with a background in technology, analytics, and business operations. I enjoy understanding how processes work, identifying what can be improved, and using data and technology to support practical solutions.
 
-💡 <i>I believe effective HR sits at the intersection of people, processes, and thoughtful decision-making.</i>
+- 🔎 Experience in understanding requirements, clarifying information, coordinating with teams, and following up on outcomes through my Business Operations internship
+- 📊 Hands-on experience with Excel, SQL, Power BI, Python, MySQL, and data analysis
+- ⚙️ Interested in business processes, operations, business systems, analytics, and people-focused problem solving
+- 🤝 Comfortable working across business, operational, technical, and stakeholder-facing environments
+- 🧩 Built projects across workforce planning, operations, customer behaviour, business performance, and HR analytics
+- 🎯 Currently exploring opportunities where I can combine analytical thinking, process understanding, communication, and technology
 
 ---
 
-## 🎯 My HR Focus
+## 🎯 Areas of Interest
 
-### People & HR
+### 📊 Analytics & Reporting
 
-🔹 People Operations  
+🔹 Data Analysis  
+🔹 Business Reporting  
+🔹 KPI Analysis  
+🔹 Workforce Analytics  
+🔹 Dashboarding & Data Visualization  
+
+### ⚙️ Operations & Processes
+
+🔹 Process Understanding  
+🔹 Operational Analysis  
+🔹 Requirements Understanding  
+🔹 Cross-Functional Coordination  
+🔹 Process & Workflow Improvement  
+
+### 💻 Business Systems & Technology
+
+🔹 Business Applications  
+🔹 HR Technology / HRIS  
+🔹 Workflow & Process Analysis  
+🔹 Data & Reporting Systems  
+🔹 Technology-enabled Problem Solving  
+
+### 👥 People & Workforce
+
 🔹 HR Operations  
-🔹 Employee Lifecycle  
-🔹 Employee Experience  
-🔹 Talent Acquisition Fundamentals  
-🔹 Performance Management Fundamentals  
-🔹 Learning & Development Fundamentals  
-🔹 People & Culture  
-
-### HR Analytics & Technology
-
+🔹 Workforce Planning  
 🔹 People Analytics  
-🔹 HR Reporting & KPI Analysis  
-🔹 HR Data Analysis  
-🔹 HRMS / HR Technology  
-🔹 Power BI for HR Insights  
-🔹 Excel-based HR Analysis  
-🔹 AI-enabled HR  
+🔹 Employee Data Analysis  
+🔹 HR Reporting  
 
 ---
 
-## 🛠 HR & Analytical Toolkit
+## 🛠 Skills & Toolkit
 
-### 👥 People & HR
-
-🔹 <b><span style="color:#7F3FBF; font-size:16px">HR Operations</span></b>  
-→ Understanding employee-related processes, coordination, documentation, and operational workflows
-
-🔹 <b><span style="color:#7F3FBF; font-size:16px">Employee Lifecycle</span></b>  
-→ Building foundational understanding of processes from hiring and onboarding through employee development and exit
-
-🔹 <b><span style="color:#7F3FBF; font-size:16px">People Analytics</span></b>  
-→ Using data to understand workforce patterns, HR metrics, and people-related questions
-
-🔹 <b><span style="color:#7F3FBF; font-size:16px">Employee Experience</span></b>  
-→ Interested in how employees experience workplace processes, communication, collaboration, and organizational initiatives
-
----
-
-### 📊 Data & Analysis
+### 📊 Analytics & Data
 
 🔹 <b><span style="color:#4B8BBE; font-size:16px">Microsoft Excel</span></b>  
 → Data analysis, PivotTables, formulas, reporting, validation, Power Query, and Power Pivot
 
-🔹 <b><span style="color:#4B8BBE; font-size:16px">Power BI</span></b>  
-→ Building dashboards, analysing KPIs, identifying trends, and communicating insights
-
 🔹 <b><span style="color:#4B8BBE; font-size:16px">SQL / MySQL</span></b>  
-→ Working with structured data, querying information, and supporting analysis
+→ Querying structured data, data validation, joins, subqueries, and analytical reporting
+
+🔹 <b><span style="color:#4B8BBE; font-size:16px">Power BI</span></b>  
+→ Building dashboards, analysing KPIs, data modelling, DAX, and visualization
 
 🔹 <b><span style="color:#4B8BBE; font-size:16px">Python / Pandas</span></b>  
-→ Data cleaning, transformation, exploration, and analysis
+→ Data cleaning, transformation, exploratory analysis, and visualization
 
-🔹 <b><span style="color:#4B8BBE; font-size:16px">Data Visualization</span></b>  
-→ Turning structured information into clear and decision-useful visual insights
+🔹 <b><span style="color:#4B8BBE; font-size:16px">Tableau</span></b>  
+→ Building analytical dashboards and communicating data-driven insights
 
----
+### ⚙️ Business & Operations
 
-### 🧰 HR & Productivity Tools
+🔹 <b><span style="color:#7F3FBF; font-size:16px">Requirements Understanding</span></b>  
+→ Understanding, clarifying, documenting, and communicating business requirements
 
-🔹 <b><span style="color:#217346; font-size:16px">Keka Core HR</span></b>  
-→ Practical exposure to HRMS concepts including organization structure, employee records, onboarding, exits, documents, assets, and HR helpdesk workflows
+🔹 <b><span style="color:#7F3FBF; font-size:16px">Process & Operations Analysis</span></b>  
+→ Understanding workflows, identifying patterns, organizing information, and supporting practical improvements
 
-🔹 <b><span style="color:#217346; font-size:16px">Microsoft Word</span></b>  
-→ Preparing structured documents, reports, and professional HR-related communication
+🔹 <b><span style="color:#7F3FBF; font-size:16px">Stakeholder Coordination</span></b>  
+→ Working across business, operational, technical, and customer-facing teams
 
-🔹 <b><span style="color:#217346; font-size:16px">Microsoft PowerPoint</span></b>  
+🔹 <b><span style="color:#7F3FBF; font-size:16px">Operational Reporting</span></b>  
+→ Preparing structured reports, validating information, and tracking recurring observations
+
+### 👥 People & HR
+
+🔹 <b><span style="color:#217346; font-size:16px">HR Operations</span></b>  
+→ Foundational understanding of employee-related processes, documentation, and operational workflows
+
+🔹 <b><span style="color:#217346; font-size:16px">HRIS / HR Technology</span></b>  
+→ Practical familiarity with HRMS concepts and employee lifecycle workflows
+
+🔹 <b><span style="color:#217346; font-size:16px">Workforce Planning & People Analytics</span></b>  
+→ Analysing workforce skills, capacity, future demand, and people-related data
+
+### 💻 Technology
+
+🔹 <b>Java · Python · JavaScript · C/C++</b>  
+🔹 <b>React · Node.js · Spring Boot · JSP</b>  
+🔹 <b>MySQL · MongoDB</b>  
+🔹 <b>Git · GitHub</b>  
+🔹 <b>AWS S3 · CloudFront · Azure Database Exposure</b>
+
+### 🧰 Productivity & Business Tools
+
+🔹 <b>Microsoft Word</b>  
+→ Preparing structured documents, reports, and professional communication
+
+🔹 <b>Microsoft PowerPoint</b>  
 → Presenting information, findings, and ideas clearly to different audiences
 
-🔹 <b><span style="color:#217346; font-size:16px">Google Sheets & Forms</span></b>  
+🔹 <b>Google Sheets & Forms</b>  
 → Collecting, organizing, validating, and working with operational information
-
-🔹 <b><span style="color:#217346; font-size:16px">Git & GitHub</span></b>  
-→ Maintaining projects, documentation, and analytical work
 
 ---
 
 ## 💼 Professional Experience
 
 ### Business Operations Intern — GoYaana | Best Trip Tech
+
 **Dec 2025 – Feb 2026**
 
-During my internship, I worked from the founder's office with exposure to clients, operations, deployment, and technical teams.
+Worked from the founder’s office with exposure to clients, operations, deployment, and technical teams.
 
-🔹 Collected and understood client requirements received through email and other communication channels
+🔹 Understood and clarified client requirements received through email and other communication channels
 
-🔹 Structured and communicated requirements to the relevant deployment and operational teams to support implementation
+🔹 Communicated relevant requirements to deployment and operational teams and followed up on progress
 
-🔹 Followed up on requirements and updates across teams to help move requests toward resolution
+🔹 Coordinated information across business and technical stakeholders to support ongoing requests
 
-🔹 Maintained and validated operational information using Excel, Google Sheets, Google Forms, MySQL, and other business tools
+🔹 Maintained and validated operational information using Excel, Google Sheets, Google Forms, MySQL, and MySQL Workbench
 
-🔹 Reviewed customer feedback and prepared weekly reports to communicate recurring requirements and operational observations
+🔹 Reviewed customer and guest feedback across 10+ partner hotel properties and contributed to recurring reporting and performance monitoring
 
-🔹 Gained exposure to deployment activities involving Azure databases and AWS S3 while coordinating information between business and technical stakeholders
+🔹 Prepared structured reports and organized operational information to support follow-ups and day-to-day decision-making
 
-> **Key takeaway:** Working across clients and teams taught me the importance of listening carefully, communicating clearly, understanding different needs, and following through — capabilities I now want to bring into People & Culture.
+🔹 Gained exposure to deployment activities involving Azure databases and AWS S3
+
+**Key strengths:** Requirements Understanding · Stakeholder Coordination · Operational Reporting · Data Validation · Cross-Functional Communication · Documentation · Structured Problem Solving
 
 ---
 
@@ -171,7 +194,7 @@ Presented two research papers at national conferences, including NMITCON 2025.
 
 ---
 
-## 📁 HR & People Analytics Projects
+## 📁 Projects
 
 ### 📊 Recruitment Funnel & Hiring Efficiency Dashboard — Power BI
 
@@ -197,7 +220,7 @@ An analytics project focused on understanding workforce learning patterns and us
 
 ---
 
-## 🎓 HR Learning & Virtual Experience
+## 🎓 Learning & Virtual Experience
 
 ### Keka — Core HR
 
@@ -221,44 +244,47 @@ Developed practical experience in data analysis, visualization, spreadsheets, an
 
 <p align="center">
 
-<b>People & Stakeholder Coordination</b> • 
+<b>Requirements Understanding</b> • 
+<b>Process Analysis</b> • 
+<b>Stakeholder Coordination</b> • 
 <b>Communication</b> • 
 <b>Structured Problem Solving</b> • 
 <b>Cross-Functional Collaboration</b> • 
-<b>Leadership</b> • 
-<b>Research & Critical Thinking</b> • 
 <b>Data-Informed Decision Making</b> • 
-<b>Adaptability</b> • 
-<b>Attention to Detail</b>
+<b>Research & Critical Thinking</b> • 
+<b>Attention to Detail</b> • 
+<b>Adaptability</b>
 
 </p>
 
 ---
 
-## 🔍 What I'm Building Toward
+## 🔍 What I’m Building Toward
 
-I am building a career in HR with a broad foundation across:
+I’m interested in opportunities where **data, technology, processes, and people come together**.
 
-**People Operations → HR Operations → HR Technology → People Analytics → Employee Experience → Strategic People Practices**
+My current areas of interest include:
 
-My goal is to first build strong practical HR fundamentals, understand how people processes work within organizations, and gradually take greater responsibility in areas where **people understanding, structured problem solving, and data can come together.**
+**Analytics → Operations → Business Processes → Business Systems → HR Technology & People Analytics**
+
+I’m looking to build practical experience solving real-world problems, working with teams and stakeholders, and using data and technology to make processes more effective.
 
 ---
 
 ## 🌐 Connect With Me
 
 <p>
-<a href="https://tnamrathapadiyar.github.io/">
-<img src="https://img.shields.io/badge/🌐%20Portfolio-Visit-purple?style=for-the-badge"/>
-</a>
+  <a href="https://tnamrathapadiyar.github.io/">
+    <img src="https://img.shields.io/badge/🌐%20Portfolio-Visit-purple?style=for-the-badge"/>
+  </a>
 
-<a href="https://www.linkedin.com/in/namratha-padiyar">
-<img src="https://img.shields.io/badge/💼%20LinkedIn-Connect-blue?style=for-the-badge"/>
-</a>
+  <a href="https://www.linkedin.com/in/namratha-padiyar">
+    <img src="https://img.shields.io/badge/💼%20LinkedIn-Connect-blue?style=for-the-badge"/>
+  </a>
 
-<a href="mailto:namrathapadiyart@gmail.com">
-<img src="https://img.shields.io/badge/📧%20Email-Contact-red?style=for-the-badge"/>
-</a>
+  <a href="mailto:namrathapadiyart@gmail.com">
+    <img src="https://img.shields.io/badge/📧%20Email-Contact-red?style=for-the-badge"/>
+  </a>
 </p>
 
 ---
